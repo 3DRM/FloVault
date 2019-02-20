@@ -81,7 +81,7 @@ How to install:
 
     # required to compile certain files
     npm install -g handlebars typescript
-    git clone https://github.com/someguy123/FloVault.git
+    git clone https://github.com/3DRM/FloVault.git
     # install dependancies in the repo dir
     cd FloVault
     npm install
